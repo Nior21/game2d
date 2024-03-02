@@ -1,0 +1,25 @@
+/* style.css */
+#game {
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+    position: relative;
+}
+
+.cell {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+}
+
+.player {
+    background-image: url('images/player.png');
+}
+
+.finish {
+    background-image: url('images/finish.png');
+}
+
+.wall {
+    background-image: url('images/wall.png');
+}
