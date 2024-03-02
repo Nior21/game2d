@@ -1,9 +1,10 @@
 /* style.css */
 #game {
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
     border: 2px solid black;
     position: relative;
+    background-color: gray;
 }
 
 .cell {
