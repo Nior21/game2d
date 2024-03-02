@@ -23,3 +23,34 @@
 .wall {
     background-image: url('images/wall.png');
 }
+
+#controls {
+    text-align: center;
+}
+
+button {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    font-size: 24px;
+}
+
+#up {
+    margin-bottom: 10px;
+}
+
+#left, #right {
+    display: inline-block;
+}
+
+#left {
+    margin-right: 10px;
+}
+
+#right {
+    margin-left: 10px;
+}
+
+#down {
+    margin-top: 10px;
+}
